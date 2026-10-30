@@ -1,0 +1,35 @@
+[
+  {
+    "type": "starred",
+    "created_at": "2025-03-18T14:30:00Z",
+    "repository": {
+      "full_name": "microsoft/vscode",
+      "html_url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "language": "TypeScript",
+      "stargazers_count": 168000
+    }
+  },
+  {
+    "type": "starred",
+    "created_at": "2025-02-11T09:15:00Z",
+    "repository": {
+      "full_name": "vitejs/vite",
+      "html_url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling.",
+      "language": "TypeScript",
+      "stargazers_count": 72000
+    }
+  },
+  {
+    "type": "starred",
+    "created_at": "2025-01-27T18:45:00Z",
+    "repository": {
+      "full_name": "sindresorhus/awesome",
+      "html_url": "https://github.com/sindresorhus/awesome",
+      "description": "A curated list of awesome lists.",
+      "language": null,
+      "stargazers_count": 360000
+    }
+  }
+]
